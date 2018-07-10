@@ -1,0 +1,30 @@
+{
+  "name": "outlandvoice",
+  "version": "0.0.1",
+  "description": "Outland Voice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/OutlandVoice.git"
+  },
+  "keywords": [
+    "outlandvoice",
+    "translation"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/OutlandVoice/issues"
+  },
+  "homepage": "https://github.com/LiberJe/OutlandVoice#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
